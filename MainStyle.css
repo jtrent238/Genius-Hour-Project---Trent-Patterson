@@ -13,7 +13,7 @@ p {
 }
 
 #MainPageBackGround {
-    background-image: url(img_flwr.gif), url(paper.gif);
+    background-image: url(img_flwr.gif), url(img/background/background.jpg);
     background-position: right bottom, left top;
     background-repeat: no-repeat, repeat;
     padding: 15px;
